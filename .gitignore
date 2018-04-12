@@ -1,0 +1,6 @@
+.*
+!.gitignore
+Maven guide.pdf
+pom.xml
+target
+*/target
